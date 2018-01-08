@@ -1,5 +1,5 @@
 # HW5
-Due: 8 Feb 2018
+Due: 13 Feb 2018
 
 You will be assigned a design pattern from ["Design Patterns by Gamma, Helm, Johnson, Vlissides"](https://books.google.com/books/about/Design_Patterns.html?id=iyIvGGp2550C).
 
