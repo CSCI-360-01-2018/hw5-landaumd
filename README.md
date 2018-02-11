@@ -6,3 +6,9 @@ You will be assigned a design pattern from ["Design Patterns by Gamma, Helm, Joh
 Write a three- to five-page research paper on the pattern and its evolution, etc. 
 Write an implementation in Java. You may present a five
 minute talk on your pattern that includes your implementation.
+
+
+To Compile and Run from the command line:
+
+javac IceCreamDriver.java
+java IceCreamDriver
