@@ -8,7 +8,11 @@ Write an implementation in Java. You may present a five
 minute talk on your pattern that includes your implementation.
 
 ---
-# To Compile and Run from the command line:
+# Factory Method Design Pattern
+Here is an implementation which uses an Ice Cream Shop creator class and Ice Cream products to illustrate the use of the Factory Method design pattern.
+
+
+## To Compile and Run from the command line:
 
 javac IceCreamDriver.java   
 java IceCreamDriver
