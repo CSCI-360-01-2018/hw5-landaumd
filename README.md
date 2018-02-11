@@ -14,7 +14,10 @@ Here is an implementation which uses an Ice Cream Shop creator class and Ice Cre
 
 ## To Compile and Run from the command line:
 
+Clone this repository and change directory into the folder it creates.
+
 ```bash
+cd Implementation
 javac IceCreamDriver.java   
 java IceCreamDriver
 ```
